@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Mandeep: development" uuid="7561a189-76ba-43dd-ab48-6e5e0ae59e7a">
+      <user-name>root</user-name>
+      <user-password>df9adfd8dfeadfc4dfcddf99dfc9dfd8df99df99dfce</user-password>
+    </data-source>
+    <data-source name="Rails Mandeep: test" uuid="1b398437-9d55-4e10-b851-4ea807f89e16">
+      <user-name>root</user-name>
+      <user-password>df9adfd8dfeadfc4dfcddf99dfc9dfd8df99df99dfce</user-password>
+    </data-source>
+    <data-source name="Rails Mandeep: production" uuid="780e645a-41b8-4cc1-acc3-6ab3c2a9b247">
+      <user-name>Mandeep</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dfebdfe4dfeedfefdfefdffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>

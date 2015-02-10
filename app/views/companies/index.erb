@@ -1,7 +1,9 @@
-<h1>Welcome : Index</h1>
+<div class="container">
+  <h1>Welcome : Index</h1>
 
-<% @company.each do |c| %>
-    <p>Company : <%= c.name %></p>
-    <p>Created Date : <%= c.created_at %></p>
-    <hr/>
-<% end %>
+  <% @company.each do |c| %>
+      <p>Company : <%= c.name %></p>
+      <p>Created Date : <%= c.created_at %></p>
+      <hr/>
+  <% end %>
+</div>
